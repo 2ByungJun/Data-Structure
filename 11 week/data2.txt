@@ -1,0 +1,7 @@
+push 1 15
+push 2 15
+pop 1
+push 2 30
+push 1 20
+push 2 20
+pop 2
