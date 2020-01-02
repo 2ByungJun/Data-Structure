@@ -1,0 +1,6 @@
+addq 25
+addq 20
+deleteq
+addq 30
+addq 15
+deleteq

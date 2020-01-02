@@ -1,0 +1,6 @@
+add front 5
+add rear 4
+add front 3
+delete front
+add rear 7
+delete rear
