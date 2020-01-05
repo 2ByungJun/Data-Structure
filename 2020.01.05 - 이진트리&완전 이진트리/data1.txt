@@ -1,0 +1,8 @@
+i node 식물의마디
+i link 연결통로
+i aplle 사과
+i bare 곰
+d bare
+s apple
+p
+q
